@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+    scroll-behavior:smooth;
+}
+
+
+body{
+    background-color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/*encabezado*/
+.analista{
+    text-align:left;
+    margin-top: 30px;
+    padding-left: 40%;
+    position:static;
+}
+
+.nombres{
+    text-align:left;
+    padding-left: 40%;
+    margin-bottom: +0%;
+}
+
+/*imagen*/
+.foto {
+  width: 150px;
+  padding: 60px;  
+  margin-top: -15%;
+  border-radius: 50%;
+  
+}
+
+hr{
+    margin-right: 20%;
+    color: black;
+}
+/*menu*/
+a{
+    padding: 5%;
+}
+
+.contacto{
+    padding: 5%;
+}
+
+
+
+.biografia{
+    padding: 5%;
+}
+
+.objetivos{
+    padding: 5%;
+}
+
+.experiencia{
+    padding: 5%;
+}
+
+.educacion {
+    text-align: right;
+    margin-right: 15px;
+}
+
+.Analista{
+    text-align: right;
+    margin-right: 15px;
+}
